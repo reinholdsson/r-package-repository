@@ -1,0 +1,10 @@
+Package: jqr
+Version: 0.2.0
+Depends: R (>= 3.1.2)
+Imports: Rcpp, lazyeval, magrittr
+LinkingTo: BH, Rcpp
+Suggests: jsonlite, testthat, knitr, covr
+License: MIT + file LICENSE
+MD5sum: 3dd04615a2d0e4f7db8ad0ab556911df
+NeedsCompilation: yes
+
